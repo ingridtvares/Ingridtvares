@@ -1,4 +1,4 @@
-Meu perfil! 💜
+**Meu perfil!** 💜
 
 📜🖋🎧💿🌼📖🧸
 
@@ -8,3 +8,7 @@ Meu perfil! 💜
 
 ⋙ Estou estudando no Alura; 
 ⋙ No momento estou aprendendo a programar e a compartilhar meus projetos!
+
+**Entre em contato comigo através de meu email:** 
+
+ingridtvares@gmail.com 
